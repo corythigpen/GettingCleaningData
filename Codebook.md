@@ -136,7 +136,7 @@ names(AllMeanStd) <- AllDataNames
 ```````````
 ### Table of variable names
 Variable Number | Original Name | Valid Name | Cleaned Name
-:---------------: | --------------| -----------| ------------- 
+:-------: | --------| --------- | ------------------------- 
 1 | (not in features.txt) | (not in features.txt) | Subject
 2 | (not in features.txt) | (not in features.txt) | Activity
 3 | tBodyAcc-mean()-X | tBodyAcc.mean...X | tBodyAcc.mean.X

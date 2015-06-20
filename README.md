@@ -11,4 +11,10 @@
 
 ## IMPORTANT: Script assumes that the working directory is the parent directory for /test and /train
 
+To run the script
+* Open R
+* Make sure your working directoy is set to the directory containing the folders for the train and test data
+* Type ``source("run_analysis.R")``
+* The data set "tidyActivityData.txt" should appear in your working directory
+
 ## The repo also contains codebook.md, a codebook explaining the changes made to the original user activity data
